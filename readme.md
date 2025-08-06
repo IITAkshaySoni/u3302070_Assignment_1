@@ -1,6 +1,6 @@
-# 🐾 Automated Pet Feeder System – Assignment 1
+# Automated Pet Feeder System – Assignment 1
 
-## 📚 University of Canberra – Introduction to Information Technology (4478/8936)
+## 📚 Introduction to Information Technology (4478/8936)
 
 This repository contains all components of Assignment 1, where I applied the Problem-Solving Process to design the logic for a low-cost, automated pet feeder for a local animal shelter. The solution simulates the system's behavior using structured logic, flowcharts, and test scenarios.
 
