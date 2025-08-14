@@ -1,0 +1,2 @@
+Problem Statement:
+The local animal shelter needs an affordable, automatic pet feeding system that works for both cats and dogs. The goal is to make feeding easier and more consistent, especially when staff are busy. This system should automatically dispense food at scheduled times, check whether the pet has eaten, and let staff know if something goes wrong like if food is not eaten or the bowl is empty. The system should be simple and low-cost, possibly using basic components like a servo motor and sensors.

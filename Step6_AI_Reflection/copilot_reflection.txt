@@ -1,0 +1,3 @@
+During this assignment, I used Microsoft Copilot to assist with multiple stages of the problem-solving process. First, I asked it to help refine my logic for the automated pet feeder system, which allowed me to structure my decision-making process clearly and professionally. It helped me outline a flowchart.
+
+Through this process, I gained better insight into how AI can be used to improve logical thinking, documentation, and the clarity of technical communication. It did not replace my work but enhanced it by giving structured guidance and real-time feedback. I now feel more confident in using AI tools as collaborators in both design and learning.
