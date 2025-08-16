@@ -1,11 +1,11 @@
 # Automated Pet Feeder System – Assignment 1
 
-## Introduction to Information Technology (4478/8936)
+Introduction to Information Technology (8936)
 
-This repository contains all components of Assignment 1, where I applied the Problem-Solving Process to design the logic for a low-cost, automated pet feeder for a local animal shelter. The solution simulates the system's behavior using structured logic, flowcharts, and test scenarios.
+This repository contains all components of Assignment 1, where I applied the Problem Solving Process to design the logic for a low cost, automated pet feeder for a local animal shelter. The solution simulates the system's behavior using structured logic, flowcharts, and test scenarios.
 
 
-## Project Overview
+# Project Overview
 
 The automated feeder is designed to:
 - Dispense food for pets at scheduled times (08:00 and 18:00)
@@ -14,7 +14,7 @@ The automated feeder is designed to:
 - Be implemented later using basic hardware (servo motor, sensors)
 
 
-## 📁 Folder Structure
+# 📁 Folder Structure
 pet-feeder-project/
 │
 ├── Step1_Analysis/
@@ -32,3 +32,5 @@ pet-feeder-project/
 │
 ├── Step5_Testing/
 │ └── test_cases_and_refinements.docx
+├── Step6_AI_Reflection/
+│ └── copilot_reflection.txt
